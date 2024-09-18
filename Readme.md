@@ -36,7 +36,7 @@ A simple Stopwatch application built using HTML, CSS, and JavaScript. This stopw
 No external dependencies are required. Simply clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Akki-soni/Stopwatch.git
 cd stopwatch
 open index.html
 ```
