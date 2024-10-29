@@ -51,7 +51,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Age Calculator App Screenshot]()
+![StopWatch Screenshot]()
 
 ## 🔗 Live Demo
 
