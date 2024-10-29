@@ -51,11 +51,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Age Calculator App Screenshot](/Age%20Calculator%20Screenshot.png)
+![Age Calculator App Screenshot]()
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://age-calculator-web-indol.vercel.app/)
+[View Live Demo](https://stopwatch-five-phi.vercel.app/)
 
 ## 🤝 Contributing
 
